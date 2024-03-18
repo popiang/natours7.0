@@ -14,7 +14,7 @@
 	- folder: routes
 		- tourRoutes.js
 		- userRoutes.js
-	- folder: controller
+	- folder: controllers
 		- tourController.js
 		- userController.js
 		- errorController.js
